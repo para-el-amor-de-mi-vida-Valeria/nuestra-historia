@@ -129,12 +129,6 @@ body {
     text-align: center;
 }
 
-.container p {
-    text-align: justify;
-    line-height: 1.7;
-}
-
-
 .section-light {
     background-color: var(--color-white);
     min-height: 100vh;
